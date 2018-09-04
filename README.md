@@ -1,0 +1,2 @@
+# kickstarts
+Anaconda kickstart files
